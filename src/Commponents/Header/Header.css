@@ -1,0 +1,18 @@
+.logo-design{
+    width: 270px;
+}
+.button-design{
+    background-color: #19E68C;
+    color: black;
+    font-weight: 500;
+    border: none;
+}
+.button-design:hover{
+    background-color: white;
+    color: #00ce45;
+}
+.nav-items{
+    font-size: 22px;
+    color: white !important;
+    margin: 0 8px;
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "key": "fksda1",
+        "name": "English",
+        "price": "2000",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuU519wH0iXBkpieAycshqBuTQB1-rIJc-47y8KZ0KqeDgmrWPZBfgdwuoE_1IieCvRg&usqp=CAU",
+        "student": "350",
+        "discription": "Each of our official English language courses is designed by a team of English language experts to teach you the language you need to have conversations in real-life situations."
+    },
+    {
+        "key": "fksda2",
+        "name": "Spanish",
+        "price": "1500",
+        "img": "https://sgdccdnems01.cdnsrv.jio.com/c.saavncdn.com/549/Learn-Spanish-Fast-English-2012-500x500.jpg",
+        "student": "300",
+        "discription": "Each of our official Spanish language courses is designed by a team of Spanish language experts to teach you the language you need to have conversations in real-life situations."
+    },
+    {
+        "key": "fksda3",
+        "name": "Polish",
+        "price": "3000",
+        "img": "https://i1.sndcdn.com/artworks-000202646101-xr2txp-t500x500.jpg",
+        "student": "150",
+        "discription": "Each of our official Polish language courses is designed by a team of Polish language experts to teach you the language you need to have conversations in real-life situations."
+    },
+    {
+        "key": "fksda4",
+        "name": "French",
+        "price": "2500",
+        "img": "https://linguaboost.com/images/aubookfrvol1.jpg",
+        "student": "70",
+        "discription": "Each of our official French language courses is designed by a team of French language experts to teach you the language you need to have conversations in real-life situations."
+    },
+    {
+        "key": "fksda5",
+        "name": "Portuguese",
+        "price": "1800",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575841084i/49130886._SS500_.jpg",
+        "student": "750",
+        "discription": "Each of our official Portuguese language courses is designed by a team of Portuguese language experts to teach you the language you need to have conversations in real-life situations."
+    },
+    {
+        "key": "fksda6",
+        "name": "Bengali",
+        "price": "3500",
+        "img": "https://c.sop.saavncdn.com/Learn-Bengali-with-LinguaBoost-20200615055802-500x500.jpg",
+        "student": "235",
+        "discription": "Each of our official Bengali language courses is designed by a team of Bengali language experts to teach you the language you need to have conversations in real-life situations."
+    },
+    {
+        "key": "fksda7",
+        "name": "Arabic",
+        "price": "1400",
+        "img": "https://m.media-amazon.com/images/I/419oV6p76IL.jpg",
+        "student": "260",
+        "discription": "Each of our official Arabic language courses is designed by a team of Arabic language experts to teach you the language you need to have conversations in real-life situations."
+    },
+    {
+        "key": "fksda8",
+        "name": "Turkish",
+        "price": "2200",
+        "img": "https://c.sop.saavncdn.com/Learn-Turkish-with-LinguaBoost-20210312121055-500x500.jpg",
+        "student": "450",
+        "discription": "Each of our official Turkish language courses is designed by a team of Turkish language experts to teach you the language you need to have conversations in real-life situations."
+    }          
+]

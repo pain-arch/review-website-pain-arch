@@ -1,0 +1,17 @@
+.hero-section{
+    background-color: #FCFAF2;
+}
+.left-side{
+    display: flex !important;
+}
+.left{
+    margin: 0 auto;
+}
+.headline-design{
+    font-size: 65px;
+}
+.dropdown-design{
+    background-color: #19E68C;
+    color: black;
+    border: none;
+}

@@ -1,0 +1,16 @@
+.main-div{
+    height: 86vh;
+}
+.title{
+    display: inline-block;
+    border-bottom: 5px solid #19e68c;
+}
+.left-side{
+    display: flex !important;
+}
+.left{
+    margin: 0 auto;
+}
+.headline-design{
+    font-size: 65px;
+}
